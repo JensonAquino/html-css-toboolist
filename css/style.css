@@ -21,3 +21,117 @@
     font-size: 30px;
     vertical-align: middle;
 }
+
+/* top main */
+.container {
+    width: 80%;
+    max-width: 1100px;
+    margin: 0 auto;
+    border: 1px solid grey;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 50px;
+}
+
+#B-B {
+    background-color: #47adf1;
+    display: inline-block;
+    width: 70px;
+    height: 25px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+#W-B {
+    background-color: #ffffff;
+    display: inline-block;
+    width: 90px;
+    height: 25px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    text-align: center;
+    color: grey;
+}
+
+/* bottom main */
+.bot-container {
+    width: 80%;
+    max-width: 1100px;
+    margin: 0 auto;
+    border: 1px solid grey;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+/* lista */
+.lista{
+    list-style: none;
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.sottolista{margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 10px;}
+.editorial {background-color: #47adf1;
+    font-size: smaller;
+    color: #ffffff;
+    display: inline-block;
+    width: 70px;
+    height: 25px;
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    text-align: center;
+    }
+
+.Q1-Goals {background-color: #9c72e4;
+    font-size: smaller;
+    color: #ffffff;
+    display: inline-block;
+    width: 70px;
+    height: 25px;
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    text-align: center;}
+
+.Recruiting {background-color: #64c0a9;
+    font-size: smaller;
+    color: #ffffff;
+    display: inline-block;
+    width: 70px;
+    height: 25px;
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    text-align: center;}
+
+.Mobile {background-color: #f29e33;
+    font-size: smaller;
+    color: #ffffff;
+    display: inline-block;
+    width: 70px;
+    height: 25px;
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    text-align: center;}
+
+.Website {background-color: #d863a1;
+    font-size: smaller;
+    color: #ffffff;
+    display: inline-block;
+    width: 70px;
+    height: 25px;
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    text-align: center;}
+
+.Sales {background-color: #b0c926;
+    font-size: smaller;
+    color: #ffffff;
+    display: inline-block;
+    width: 70px;
+    height: 25px;
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    text-align: center;}
