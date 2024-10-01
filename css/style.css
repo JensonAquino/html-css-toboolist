@@ -1,6 +1,23 @@
 /* rest */
 
-*{margin: 0;
-padding: 0;
-box-sizing: border-box;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* cornice */
+
+.cornice {
+    background-color: #ffffff;
+}
+
+.cornice img {
+    height: 50px;
+    vertical-align: middle;
+}
+
+.cornice .testo-cornice {
+    font-size: 30px;
+    vertical-align: middle;
 }
